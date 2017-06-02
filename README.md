@@ -4,7 +4,7 @@ This repository is a collection of work done by students at the Herman Hollerith
 
 
 
-If you are interestested in this project, please feel free to use our wiki (https://github.com/NathalieH392/Blockchain_IoT_HHZ/wiki) and keep on progressing our idea - we are looking forward seeing your idea within this Github repository.
+If you are interestested in this project, please feel free to use our wiki (link) and keep on progressing our idea - we are looking forward seeing your idea within this Github repository.
 
 In case you want to contact us, use the following mail address: info@hhz.de.
 
