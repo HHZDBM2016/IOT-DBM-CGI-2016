@@ -1,13 +1,12 @@
 # IOT-DBM-CGI-2016
 HHZ IOT 
-This repository is a collection of work done by students at the Herman Hollerith Center (HHZ) in Germany (http://www.hhz.de).
+
+Dieses Repositroy ist eine Sammlung der Arbeit von Studenten des Herman Hollerith Zentrum (HHZ) in Deutschland (http://www.hhz.de).
+
+In diesem Projekt versuchen wir eine nachhaltige IOT Lösung zu schaffen. Dabei konzentrieren wir uns auf die Nutzung der Sensoren eines Smartphones. In diesem Kontext werden alte Smartphones mit vorhandener Sensorik genutzt um ein sicheres zu Hause zu schaffen.
+
+Wenn Sie interessiert an diesem Projekt sind schauen Sie doch in unserem Wiki vorbei (https://github.com/HHZDBM2016/IOT-DBM-CGI-2016/wiki).
+
+Wenn Sie Fragen haben, schreiben Sie uns einfach eine Mail an: info@hhz.de
 
 
-
-If you are interestested in this project, please feel free to use our wiki (link) and keep on progressing our idea - we are looking forward seeing your idea within this Github repository.
-
-In case you want to contact us, use the following mail address: info@hhz.de.
-
-
-
-All names are invented, except for the Herman Hollerith Center (HHZ).
