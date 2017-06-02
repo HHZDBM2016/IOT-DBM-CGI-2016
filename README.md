@@ -1,7 +1,7 @@
 # IOT-DBM-CGI-2016
 HHZ IOT 
 
-Dieses Repositroy ist eine Sammlung der Arbeit von Studenten des Herman Hollerith Zentrum (HHZ) in Deutschland (http://www.hhz.de).
+Dieses Repositroy ist eine Sammlung der Arbeit der Digital Business Management Studenten (CGI) des Herman Hollerith Zentrum (HHZ) in Deutschland (http://www.hhz.de).
 
 In diesem Projekt versuchen wir eine nachhaltige IOT Lösung zu schaffen. Dabei konzentrieren wir uns auf die Nutzung der Sensoren eines Smartphones. In diesem Kontext werden alte Smartphones mit vorhandener Sensorik genutzt um ein sicheres zu Hause zu schaffen.
 
